@@ -3,7 +3,7 @@ import font from "./font";
 import paragraph from "./paragraph";
 import geometry from "./geometry";
 import borderProperties from "./borderProperties";
-import backgroundProperties from "./backgroundProperties";
+import backgroundProperties from "./background";
 import metadata from "./metadata";
 
 export default [
